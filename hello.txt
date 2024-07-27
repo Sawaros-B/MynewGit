@@ -1,4 +1,3 @@
 hello hello
 new update
-monthly
-July
+
